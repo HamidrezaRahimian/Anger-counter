@@ -1,0 +1,47 @@
+body {
+
+    background-image: url(anger4.jpg);
+    background-size: cover;
+    align-items: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+    padding: 30px 50px;
+    font-size: 30px;
+}
+
+
+
+
+
+button.increment-btn-section{
+    background-color: darkred;
+    transition: 0.5s;
+}
+
+.increment-btn-section:hover{
+    opacity: 0.8;
+}
+.increment-btn-section:active{
+    opacity: 0.5;
+}
+
+#save-btn{
+    background-color: lightgreen;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+
+
