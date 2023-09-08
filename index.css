@@ -35,13 +35,14 @@ button.increment-btn-section{
     opacity: 0.5;
 }
 
-#save-btn{
-    background-color: lightgreen;
+button.save-btn-section{
+    background-color: darkgreen;
 }
 
 h2 {
     font-size: 50px;
 }
-
-
+.save-class{
+    font-size: 30px;
+}
 
